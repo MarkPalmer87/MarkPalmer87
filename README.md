@@ -1,6 +1,7 @@
 # Contact Information
-**Mark Palmer _yeah baby_**<br/>
+**Mark Palmer **<br/>
 *markpalmer06@gmail.com*<br/>
+Franklin, TN <br>
 918-740-6770
 # Technologies
 - [Java](https://docs.oracle.com/en/java/) <!-- when you use [ ] you are making a link -->
@@ -8,17 +9,18 @@
 - HTML
 - [Python](https://docs.python.org/3/)
 - Ruby
-# UnOrdered Items
-* Item 1
-* Item 2
-  * Item 2a
-  * Item
-# Ordered Items
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
+# Work Experience & Affiliations
+* *January 2019 - Present:*
+   * Certified Residential Appraiser
+   * FHA Certified Roster Appraiser since *2020*
+   * Member of NAR (National Association of Realtors) since *2015*
+   * Member of AI (The Appraisal Institute) since *2015*
+# Employment History
+1. Public School Teacher *2013 - 2016*
+   - Librarian/7th Grade Science - Bailey STEM Magnet Middle School
+   - History/Government/Economics - Cheatham County High School 
+ 2. Staff Appraiser - Fuller Partners Appraisals LLC *2015 - 2024*
+ 3. Staff Appraiser - Banks Appraisal Group LLC *2024 - present*
 # Table
 Color | RGB | Comment
 ------|-----|--------
@@ -37,4 +39,4 @@ karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[website]: [https://github.com/MarkPalmer87] <!-- here is where the website term is defined -->
+[website]: [https://github.com/MarkPalmer87] <!-- here is where the website term is defined   also triple ticks ``` allow you to make a copyable text segment ```-->
