@@ -3,7 +3,7 @@
 *markpalmer06@gmail.com*<br/>
 Franklin, TN <br>
 918-740-6770
-# Coding Language Experience:
+# Coding Language Experience
 - Java <!-- when you use [ ] you are making a link -->
 - Javascript
 - HTML/CSS
@@ -22,7 +22,7 @@ Franklin, TN <br>
  2. Staff Appraiser - Fuller Partners Appraisals LLC *2015 - 2024*
  3. Staff Appraiser - Banks Appraisal Group LLC *2024 - present*
 
-# Top Assets:
+# Top Assets
 - Excellent with people
 - Experienced with Middle-TN Real Estate Market
 - Skilled with technology
