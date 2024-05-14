@@ -16,11 +16,11 @@ Franklin, TN <br>
    * Member of NAR (National Association of Realtors) since *2015*
    * Member of AI (The Appraisal Institute) since *2015*
 # Employment History
-1. Public School Teacher *2013 - 2016*
+- Public School Teacher *2013 - 2016*
    - Librarian/7th Grade Science - Bailey STEM Magnet Middle School
    - History/Government/Economics - Cheatham County High School 
- 2. Staff Appraiser - Fuller Partners Appraisals LLC *2015 - 2024*
- 3. Staff Appraiser - Banks Appraisal Group LLC *2024 - present*
+ - Staff Appraiser - Fuller Partners Appraisals LLC *2015 - 2024*
+ - Staff Appraiser - Banks Appraisal Group LLC *2024 - present*
 
 # Top Assets
 - Excellent with people
