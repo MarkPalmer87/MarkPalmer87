@@ -4,10 +4,10 @@
 Franklin, TN <br>
 918-740-6770
 # Coding Language Experience:
-- [Java](https://docs.oracle.com/en/java/) <!-- when you use [ ] you are making a link -->
+- Java <!-- when you use [ ] you are making a link -->
 - Javascript
 - HTML/CSS
-- [Python](https://docs.python.org/3/)
+- Python
 
 # Work Experience & Affiliations
 * *January 2019 - Present:*
