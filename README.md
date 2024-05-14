@@ -11,7 +11,7 @@ Franklin, TN <br>
 - Ruby
 # Work Experience & Affiliations
 * *January 2019 - Present:*
-   * Certified Residential Appraiser
+   * Certified Residential Appraiser since *2015*
    * FHA Certified Roster Appraiser since *2020*
    * Member of NAR (National Association of Realtors) since *2015*
    * Member of AI (The Appraisal Institute) since *2015*
@@ -52,7 +52,7 @@ green | 0x0000ff | my color -->
 
 ## Thanks for taking the time to look at my page!
 ### connect with me:
-[<img alt="Mark_Palmer" width="80px" src="https://github.com/MarkPalmer87/Images/blob/main/contact_page_image.jpg?raw=true" />]
+[<img alt="Mark_Palmer" width="120px" src="https://github.com/MarkPalmer87/Images/blob/main/contact_page_image.jpg?raw=true" />]
 
 <!---
 karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
