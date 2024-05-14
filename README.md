@@ -8,7 +8,7 @@ Franklin, TN <br>
 - Javascript
 - HTML/CSS
 - [Python](https://docs.python.org/3/)
-- Ruby
+
 # Work Experience & Affiliations
 * *January 2019 - Present:*
    * Certified Residential Appraiser since *2015*
