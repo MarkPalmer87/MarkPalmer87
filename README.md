@@ -46,9 +46,9 @@ red | 0xff0000 | don't like it
 blue | 0x00ff00 | kinda like it
 green | 0x0000ff | my color -->
 
-#### Hi there, I'm Mark Palmer [MarkPalmer](website)
-- 👋 Hi, I’m @MarkPalmer87
-- 🌱 I’m currently training on [GitHub Course](website)
+#### Hi there, I'm Mark Palmer 
+- 👋 Hi, I’m [@MarkPalmer87] (https://www.youtube.com/watch?v=nvPOUdz5PL4)
+- 🌱 I’m currently training on [GitHub Course]
 
 ## Thanks for taking the time to look at my page!
 ### connect with me:
@@ -59,7 +59,7 @@ karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ### Check out my GitHub Profile for my latest coding work!
-[website]: [https://github.com/MarkPalmer87] <br> <!-- here is where the website term is defined   also triple ticks ``` allow you to make a copyable text segment ```-->
+[website]:  <br> <!-- here is where the website term is defined   also triple ticks ``` allow you to make a copyable text segment ```-->
 
 ### Check out my Appraisal Website:
 [https://www.laserappraisal.com] <br>
