@@ -3,10 +3,10 @@
 *markpalmer06@gmail.com*<br/>
 Franklin, TN <br>
 918-740-6770
-# Technologies
+# Coding Language Experience:
 - [Java](https://docs.oracle.com/en/java/) <!-- when you use [ ] you are making a link -->
 - Javascript
-- HTML
+- HTML/CSS
 - [Python](https://docs.python.org/3/)
 - Ruby
 # Work Experience & Affiliations
@@ -21,19 +21,39 @@ Franklin, TN <br>
    - History/Government/Economics - Cheatham County High School 
  2. Staff Appraiser - Fuller Partners Appraisals LLC *2015 - 2024*
  3. Staff Appraiser - Banks Appraisal Group LLC *2024 - present*
-# Table
+
+# Top Assets:
+- Excellent with people
+- Experienced with Middle-TN Real Estate Market
+- Skilled with technology
+- Fast learner of new systems
+
+# Relevant Skills:
+- PC/Linux/Mac OS proficiency
+- Familiar with WinTOTAL Software by alamode
+- Microsoft Office suite proficiency (Word/Excel/PowerPoint/Outlook)
+
+# Hobbies & Personal Interests:
+- Painting/Drawing/Visual Arts
+- Biking
+- Music/Guitar
+- Gardening
+
+<!-- # Table
 Color | RGB | Comment
 ------|-----|--------
 red | 0xff0000 | don't like it
 blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
+green | 0x0000ff | my color -->
 
 #### Hi there, I'm Mark Palmer [MarkPalmer][website]
 - 👋 Hi, I’m @MarkPalmer87
 - 🌱 I’m currently training on [GitHub Course][website]
 
-### connect with me.
-[<img alt="Karl Larson" width="40px" src="https://user-images.githubusercontent.com/35807054/118406518-e8374d80-b641-11eb-82ac-dd6b3ceca506.jpg" />][website]
+## Thanks for taking the time to look at my page!
+### connect with me:
+[<img alt="Mark_Palmer" width="80px" src="https://github.com/MarkPalmer87/Images/blob/main/contact_page_image.jpg?raw=true" />]
+
 <!---
 karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
