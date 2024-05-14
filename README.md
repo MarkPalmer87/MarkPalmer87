@@ -61,6 +61,6 @@ You can click the Preview link to take a look at your changes.
 ### Check out my GitHub Profile for my latest coding work!
 **GitHub:** https://github.com/MarkPalmer87 <br> <!-- here is where the website term is defined   also triple ticks ``` allow you to make a copyable text segment ```-->
 ### Check out my Appraisal Website:
-**laser appraisal:** [https://www.laserappraisal.com] <br>
+**laser appraisal:** https://www.laserappraisal.com <br>
 ### Check out my artwork on Instagram!
-**Instagram** [https://www.instagram.com/markandrewpalmer/] 
+**Instagram** https://www.instagram.com/markandrewpalmer/ 
