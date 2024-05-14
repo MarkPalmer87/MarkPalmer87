@@ -46,9 +46,9 @@ red | 0xff0000 | don't like it
 blue | 0x00ff00 | kinda like it
 green | 0x0000ff | my color -->
 
-#### Hi there, I'm Mark Palmer [MarkPalmer][website]
+#### Hi there, I'm Mark Palmer [MarkPalmer](website)
 - 👋 Hi, I’m @MarkPalmer87
-- 🌱 I’m currently training on [GitHub Course][website]
+- 🌱 I’m currently training on [GitHub Course](website)
 
 ## Thanks for taking the time to look at my page!
 ### connect with me:
