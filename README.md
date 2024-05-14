@@ -58,5 +58,10 @@ green | 0x0000ff | my color -->
 karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Check out my GitHub Profile for my latest coding work!
+[website]: [https://github.com/MarkPalmer87] <br> <!-- here is where the website term is defined   also triple ticks ``` allow you to make a copyable text segment ```-->
 
-[website]: [https://github.com/MarkPalmer87] <!-- here is where the website term is defined   also triple ticks ``` allow you to make a copyable text segment ```-->
+### Check out my Appraisal Website:
+[https://www.laserappraisal.com] <br>
+### Check out my artwork on Instagram!
+[instagram] [https://www.instagram.com/markandrewpalmer/] 
