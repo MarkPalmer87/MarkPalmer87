@@ -28,12 +28,14 @@ Franklin, TN <br>
 - Skilled with technology
 - Fast learner of new systems
 
-# Relevant Skills:
-- PC/Linux/Mac OS proficiency
-- Familiar with WinTOTAL Software by alamode
-- Microsoft Office suite proficiency (Word/Excel/PowerPoint/Outlook)
+# Relevant Skills
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- WinTOTAL Software by alamode
+- ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-# Hobbies & Personal Interests:
+# Hobbies & Personal Interests
 - Painting/Drawing/Visual Arts
 - Biking
 - Music/Guitar
@@ -52,7 +54,7 @@ green | 0x0000ff | my color -->
 
 ## Thanks for taking the time to look at my page!
 ### connect with me:
-[<img alt="Mark_Palmer" width="120px" src="https://github.com/MarkPalmer87/Images/blob/main/contact_page_image.jpg?raw=true" />]
+<img alt="Mark_Palmer" width="120px" src="https://github.com/MarkPalmer87/Images/blob/main/contact_page_image.jpg?raw=true" />
 
 <!---
 karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
