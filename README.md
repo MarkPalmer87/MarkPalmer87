@@ -11,7 +11,6 @@ Franklin, TN <br>
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # Work Experience & Affiliations
-* *January 2019 - Present:*
    * Certified Residential Appraiser since *2015*
    * FHA Certified Roster Appraiser since *2020*
    * Member of NAR (National Association of Realtors) since *2015*
